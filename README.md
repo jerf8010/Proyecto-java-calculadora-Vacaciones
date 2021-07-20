@@ -15,5 +15,8 @@ regresar a la pantalla de bienvenida, se puede limpiar el formulario actual. En 
 al presionar en calcular > vacaciones, hay dos opciones, si el formulario esta completamente lleno, se arrojara la informacion sobre las vacaciones de acuerdo a las especificaciones
 agregadas en el archivo "Requerimientos Coca-cola". De lo contrario se abrira una ventana de alerta pidiendo llenar correctamente el formulario.
 
-<img src="principal.png"/>
+<img src="principal.png"/>.
+
+
+Por último, se creo el archivo .jar cuyas instrucciones de creacion estan en el archivo "InstructionsEject.txt"
 
