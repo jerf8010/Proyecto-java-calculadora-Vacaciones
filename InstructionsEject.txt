@@ -1,0 +1,13 @@
+Manifest-Version: 1.0.0
+Created-By: Emanuel Fitta
+Main-Class: Bienvenida
+X-COMMENT: Proyecto de Java
+
+
+En el simbolo del sistema:
+jar cvfm Sistema.jar manifest.mf Bienvenida.class Licencia.class Principal.class images/coca-cola.png images/icon.png images/logo-coca.png images/coca-cola-blanco.png
+
+java -jar Sistema.jar
+
+
+Para compartirlo solo se comparte el .jar y la carpeta de imagenes

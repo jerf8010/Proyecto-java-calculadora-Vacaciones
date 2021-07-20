@@ -1,0 +1,4 @@
+Manifest-Version: 1.0.0
+Created-By: Emanuel Fitta
+Main-Class: Bienvenida
+X-COMMENT: Proyecto de Java
